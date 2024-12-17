@@ -2305,7 +2305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tan7bot/github-auto-following</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2353,7 +2353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tan7bot/github-repo-size</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A browser extension for showing the size of repos.</div>
@@ -2406,7 +2406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tan7bot/metrics</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -2459,7 +2459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tan7bot/github-fork-follow</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3097,7 +3097,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2024, 16:56:15 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2024, 17:27:16 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
