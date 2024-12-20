@@ -59,7 +59,8 @@ jobs:
          #plugin_languages_threshold: 0%
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
-          repositories_skipped: ROBLOX
+          repositories_skipped: >-
+            PatoFlamejanteTV/ROBLOX, PatoFlamejanteTV/WindowsNT3.5Code, PatoFlamejanteTV/WindowsEmbedCE6Code, PatoFlamejanteTV/undertale, PatoFlamejanteTV/SamsungAntiPhishingDemo, PatoFlamejanteTV/SamsungSecureStorage, PatoFlamejanteTV/SamsungSecureWifi
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
