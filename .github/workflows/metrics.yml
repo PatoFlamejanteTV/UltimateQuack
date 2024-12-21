@@ -72,7 +72,8 @@ jobs:
             PatoFlamejanteTV/KineDecomp,
             PatoFlamejanteTV/Infinitode2-mobile-decompile,
             PatoFlamejanteTV/Infinitode2-JADXDecomp,
-            PatoFlamejanteTV/Infinitode2-UnDecompiled
+            PatoFlamejanteTV/Infinitode2-UnDecompiled,
+            PatoFlamejanteTV/flipaclip-4-1-2
           plugin_languages_ignored: >-
             smali
           plugin_stargazers: yes
