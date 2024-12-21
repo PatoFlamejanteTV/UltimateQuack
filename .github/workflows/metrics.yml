@@ -29,15 +29,18 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Brazil, America/Sao_Paulo
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: no
+         #plugin_16personalities: yes
+         #plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+         #plugin_16personalities_sections: personality, traits
+         #plugin_16personalities_scores: no
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: X
           plugin_achievements_limit: 0
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_self: yes # Include own repositories
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 7
@@ -58,7 +61,7 @@ jobs:
           plugin_languages_recent_load: 10
           plugin_languages_sections: most-used
          #plugin_languages_threshold: 0%
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no # i suspect that THIS line is making my life a mf mess
           plugin_languages_details: bytes-size, percentage, lines
           repositories_skipped: >-
             PatoFlamejanteTV/ROBLOX,
